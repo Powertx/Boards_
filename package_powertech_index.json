@@ -106,8 +106,8 @@
           },
           "url": "https://github.com/Powertx/Boards_/raw/master/boards.zip",
           "archiveFileName": "boards.zip",
-          "checksum": "SHA-256:EA914E10E1EB50711C2E578A9B563605CD48F1E8B45E93C628CA2A9F98E64481",
-          "size": "528816",
+          "checksum": "SHA-256:FF14983523BBC9BD56EF9B53CC82DC3CEF95FFECFA907BB1D21324D84EAE1251",
+          "size": "533466",
           "boards": [
             {"name": "Ethduino ONE"},
             {"name": "HAMMER"}
