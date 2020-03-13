@@ -124,6 +124,26 @@
               "version": "6.0.1-arduino5"
             }
           ]
+        },
+		{
+         "name": "PowerTech Boards",
+          "architecture": "avr",
+          "version": "1.0.4",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.google.com/"
+          },
+          "url": "https://github.com/Powertx/Boards_/raw/master/boards.zip",
+          "archiveFileName": "boards.zip",
+          "checksum": "SHA-256:1EFDB5BE3F641FB9D2FE524145CA698956942AE835A646C6FD6826E4A016BDB7",
+          "size": "1143012",
+          "boards": [
+            {"name": "Ethduino ONE"},
+            {"name": "HAMMER"}
+          ],
+          "toolsDependencies": [
+           
+          ]
         }
       ],
       "tools":[]
