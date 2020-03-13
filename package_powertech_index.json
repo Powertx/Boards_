@@ -154,6 +154,36 @@
               "version": "6.3.0-arduino17"
             }       
           ]
+        },
+		{
+         "name": "PowerTech Boards",
+          "architecture": "avr",
+          "version": "1.0.6",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.google.com/"
+          },
+          "url": "https://github.com/Powertx/Boards_/raw/master/boards.zip",
+          "archiveFileName": "boards2.zip",
+          "checksum": "SHA-256:A851DBF3CE4AE84C578AFC9832730EAA1F268E24F4AFAA6F20DA0672B710F9D7",
+          "size": "980913",
+          "boards": [
+            {"name": "Ethduino ONE"},
+            {"name": "HAMMER"}
+          ],
+          "toolsDependencies": 
+		  [
+		  {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17"
+            }       
+          ]
         }
       ],
       "tools":[]
