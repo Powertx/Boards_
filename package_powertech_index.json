@@ -128,7 +128,7 @@
 		{
          "name": "PowerTech Boards",
           "architecture": "avr",
-          "version": "1.0.4",
+          "version": "1.0.5",
           "category": "Contributed",
           "help": {
             "online": "http://www.google.com/"
@@ -142,6 +142,16 @@
             {"name": "HAMMER"}
           ],
           "toolsDependencies": [
+		  {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17"
+            },
            
           ]
         }
