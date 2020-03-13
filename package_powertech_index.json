@@ -141,7 +141,8 @@
             {"name": "Ethduino ONE"},
             {"name": "HAMMER"}
           ],
-          "toolsDependencies": [
+          "toolsDependencies": 
+		  [
 		  {
               "packager": "arduino",
               "name": "avr-gcc",
@@ -151,7 +152,7 @@
               "packager": "arduino",
               "name": "avrdude",
               "version": "6.3.0-arduino17"
-            },
+            }
            
           ]
         }
