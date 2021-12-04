@@ -253,8 +253,8 @@
           "help": {
             "online": "http://www.google.com/"
           },
-          "url": "https://github.com/Powertx/Boards_/raw/master/boards_1.0.8.1.zip",
-          "archiveFileName": "boards_1.0.8.1.zip",
+          "url": "https://github.com/Powertx/Boards_/raw/master/boards_1.0.9.zip",
+          "archiveFileName": "boards_1.0.9.zip",
           "checksum": "SHA-256:CB2818DF376E4AA9892E85C459E5C0C1919C69F47F304F63FEB6FE3F9B987E28",
           "size": "1016040",
           "boards": [
