@@ -304,6 +304,36 @@
               "version": "6.3.0-arduino17"
             }       
           ]
+        },
+		{
+         "name": "RNS Boards",
+          "architecture": "avr",
+          "version": "1.0.11",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.google.com/"
+          },
+          "url": "https://github.com/Powertx/Boards_/raw/master/boards_1.0.11.zip",
+          "archiveFileName": "boards_1.0.11.zip",
+          "checksum": "SHA-256:631748C67DCE2C6E8AEBBA2399BC27B0C88AC092FBE58FB6178151CD728CD361",
+          "size": "1014455",
+          "boards": [
+            {"name": "Ethduino ONE"},
+            {"name": "HAMMER"}
+          ],
+          "toolsDependencies": 
+		  [
+		  {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17"
+            }       
+          ]
         }
       ],
       "tools":[]
