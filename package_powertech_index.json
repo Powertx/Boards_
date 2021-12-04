@@ -248,7 +248,7 @@
 		{
          "name": "RNS Boards",
           "architecture": "avr",
-          "version": "1.0.8.1",
+          "version": "1.0.9",
           "category": "Contributed",
           "help": {
             "online": "http://www.google.com/"
